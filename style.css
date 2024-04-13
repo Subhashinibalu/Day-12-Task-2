@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,553;1,553&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,500;1,500&display=swap');
+body{
+    font-family: "Cabin", sans-serif !important;
+}
+.txt{
+    font-family: "Playfair Display", serif !important;
+
+}
+
+
+
+.star{
+    font-size: 20px;
+    color: orange;
+    padding: 1px;
+}
+td{
+    text-align: center;
+}
+.left{
+    text-align: start !important;
+}
